@@ -14,7 +14,7 @@ Kurulum
 Depoyu klonlayın:
 
 Bash
-git clone https://github.com/kullaniciadi/BestServiceTester.git
+git clone https://github.com/ginbesse/NexCall-Bomb---Insure-bomb-targets-phone-number.git
 cd BestServiceTester
 Gerekli bağımlılıkları yükleyin:
 
